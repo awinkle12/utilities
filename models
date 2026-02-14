@@ -1,3 +1,7 @@
 model im using
 
+initial model:
 https://huggingface.co/hugging-quants/Llama-3.2-1B-Instruct-Q8_0-GGUF
+
+for coding:
+https://huggingface.co/Qwen/Qwen3-Coder-Next
